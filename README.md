@@ -38,9 +38,6 @@ Below are two key images used in our project:
 
 To use this project, you can clone the repository. Please refer to the `main-embedding.py` script and the table examples in the `Label` folder for detailed information on data processing and model training.
 
-## Contributions
-
-Contributions to this project are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue. We appreciate your support in enhancing the prediction tool for SMILE surgery.
 
 ## Acknowledgements
 
