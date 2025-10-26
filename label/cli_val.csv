@@ -1,0 +1,3 @@
+id,eye,Area_mm2,Diameter_mm,Offset_mm,offset_target,dia_target,Sphere(D),Cylinder(D),Axis of Cylinder,Lenticule Thickness(um),Input Sphere(D),Gender,Age,Corneal Diameter(mm),Input Cylinder(D),Input Axis,Central Corneal Thickness(um),Flat Keratometry,Steep Keratometry,Axis of Steep Keratometry,Residual Stromal Thickness(um)
+1121,OD,,5.892379659,0.208248282,1,0,-1.75,0,0,57,-2.6,1,20,11.4,0,0,565,43.3,43.9,87.9,388
+1122,OS,,5.567718136,0.358924129,1,0,-2,0,0,60,-2.75,1,20,11.4,0,0,565,43.6,44.4,89.1,385
