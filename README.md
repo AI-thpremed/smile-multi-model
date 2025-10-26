@@ -18,6 +18,22 @@ SMILE surgery is a popular refractive surgery for correcting myopia. However, th
 - **Simplicity and Efficiency**: The conservative embedding and fusion scheme ensures the model remains simple and easy to implement, without requiring complex structures.
 - **Clinical Relevance**: The model provides valuable insights for personalized surgical planning, helping surgeons make more informed decisions and potentially improving visual outcomes.
 
+- 
+## Visualization of Data
+
+Below are two key images used in our project:
+
+<p align="center">
+  <img src="/images/Anterior%20axial%20curvature%20map.jpg" alt="Anterior Axial Curvature Map" width="400">
+  <br>
+  *Anterior Axial Curvature Map (AACM): This is the preoperative input image used for prediction.*
+</p>
+
+<p align="center">
+  <img src="/images/Tangential%20curvature%20difference%20map.png" alt="Tangential Curvature Difference Map" width="400">
+  <br>
+  *Tangential Curvature Difference Map: This represents the postoperative ground truth, showing the effective optical zone (EOZ) diameter.*
+</p>
 ## Usage
 
 To use this project, you can clone the repository. Please refer to the `main-embedding.py` script and the table examples in the `Label` folder for detailed information on data processing and model training.
